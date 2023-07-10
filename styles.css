@@ -155,3 +155,22 @@
     gap: 20px;
 
 }
+.footer-container{
+    height: 100vh;
+    background-image: url("./asset/image/footer-bg.png"),linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9));
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+   
+   
+    padding: 20px;
+   
+   
+}
+.title{
+    padding: 10px;
+    display: block;
+}
